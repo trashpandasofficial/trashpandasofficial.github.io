@@ -1,6 +1,6 @@
 U7 Raid map
 
-<img src="https://cdn.discordapp.com/attachments/693018843857027142/804809203041959946/unknown.png" alt="U7">
+<img src="https://cdn.discordapp.com/attachments/693018843857027142/805134771583320104/unknown.png" alt="U7">
 
 ALPHA Raid map
 <img src="https://cdn.discordapp.com/attachments/623889495946952715/804342967804231680/unknown.png" alt="ALPHA">
