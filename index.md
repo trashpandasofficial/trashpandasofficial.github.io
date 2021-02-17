@@ -1,6 +1,6 @@
 U7 Raid map
 
-<img src="https://cdn.discordapp.com/attachments/693018843857027142/810089713365024778/unknown.png" alt="U7">
+<img src="https://cdn.discordapp.com/attachments/693018843857027142/811707940993368104/unknown.png" alt="U7">
 
 ALPHA Raid map
 
@@ -12,4 +12,4 @@ BETA Raid map
 
 GAMMA Raid map
 
-<img src="https://cdn.discordapp.com/attachments/623889495946952715/810089833736437800/unknown.png" alt="GAMMA">
+<img src="https://cdn.discordapp.com/attachments/623889495946952715/811708089664405534/unknown.png" alt="GAMMA">
