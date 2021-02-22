@@ -4,7 +4,7 @@ U7 Raid map
 
 ALPHA Raid map
 
-<img src="https://cdn.discordapp.com/attachments/623889495946952715/804342967804231680/unknown.png" alt="ALPHA">
+<img src="https://cdn.discordapp.com/attachments/623889495946952715/813368715151409162/unknown.png" alt="ALPHA">
 
 BETA Raid map
 
