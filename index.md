@@ -1,10 +1,10 @@
 U7 Raid map
 
-<img src="https://cdn.discordapp.com/attachments/693018843857027142/811707940993368104/unknown.png" alt="U7">
+<img src="https://cdn.discordapp.com/attachments/693018843857027142/818555346431639552/unknown.png" alt="U7">
 
 ALPHA Raid map
 
-<img src="https://cdn.discordapp.com/attachments/623889495946952715/813368715151409162/unknown.png" alt="ALPHA">
+<img src="https://cdn.discordapp.com/attachments/623889495946952715/818555151136587866/unknown.png" alt="ALPHA">
 
 BETA Raid map
 
