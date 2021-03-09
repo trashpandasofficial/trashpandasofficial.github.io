@@ -8,7 +8,7 @@ ALPHA Raid map
 
 BETA Raid map
 
-<img src="https://cdn.discordapp.com/attachments/623889495946952715/808016439289577492/unknown.png" alt="BETA">
+<img src="https://cdn.discordapp.com/attachments/623889495946952715/818749187612213269/unknown.png" alt="BETA">
 
 GAMMA Raid map
 
